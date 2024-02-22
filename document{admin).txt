@@ -1,0 +1,18 @@
+# ----- documentation for the all admin login information ----- #
+login api: post(https://voater-backend-app.onrender.com/v1/login)
+
+[1.] khushal vaghashiya: { "Password": "khushal@123", "Name": "khushal vaghashiya", "Email": "khushal@gmail.com" }
+[2.] Freni vaghashiya: { "Password": "freni@123", "Name": "freni vaghashiya", "Email": "freni@gmail.com" }
+[3.] Himali patel: { "Password": "himali@123", "Name": "himali vaghashiya", "Email": "himali@gmail.com" }
+[4.] khushi vaja: { "Password": "khushi@123", "Name": "khushi vaghashiya", "Email": "khushi@gmail.com" }
+[5.] harshit lathiya: { "Password": "harshit@123", "Name": "harshit vaghashiya", "Email": "harshit@gmail.com" }
+[6.] savaj priyal: { "Password": "savaj@123", "Name": "savaj vaghashiya", "Email": "savaj@gmail.com" }
+[7.] puran vishwakarma: { "Password": "puran@123", "Name": "puran vaghashiya", "Email": "puran@gmail.com" }
+[8.] surjeetsinh rathod: { "Password": "surjeetsinh@123", "Name": "surjeetsinh vaghashiya", "Email": "surjeetsinh@gmail.com" }
+[9.] dhruvik lathiya: { "Password": "dhruvik@123", "Name": "dhruvik vaghashiya", "Email": "Dhruvik@gmail.com" }
+[10.] riya parmar: { "Password": "riya@123", "Name": "riya vaghashiya", "Email": "riya@gmail.com" }
+[11.] urja dobariya: { "Password": "urja@123", "Name": "urja vaghashiya", "Email": "urja@gmail.com" }
+[12.] manali chovatiya: { "Password": "manali@123", "Name": "manali vaghashiya", "Email": "manali@gmail.com" }
+[13.] pooja kachhadiya: { "Password": "pooja@123", "Name": "pooja vaghashiya", "Email": "pooja@gmail.com" }
+[14.] niyati moradiya: { "Password": "niyati@123", "Name": "niyati vaghashiya", "Email": "niyati@gmail.com" }
+
